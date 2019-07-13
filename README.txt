@@ -2,7 +2,7 @@ It is an Social Widget To Display Instagram Feeds in an Block
 
 Below are the Steps to Configuration:-
 
-1.Login to Your Instagram Account in a Different tab.
+Login to Your Instagram Account in a Different tab.
 
 1.Go to /admin/config/instagram-settings on your Drupal Website.,after enabling the instawidget Module.
 
