@@ -1,0 +1,4 @@
+name: Instagram Feeds Widget
+type: module
+description: 'A Contributed module for Instagram Feeds Section,to dsplay it in Block'
+core_version_requirement: ^8 || ^9
