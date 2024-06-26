@@ -1,4 +1,8 @@
 name: Instagram Feeds Widget
 type: module
 description: 'A Contributed module for Instagram Feeds Section,to dsplay it in Block'
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8 || ^9 || ^10
+# Information added by Drupal.org packaging script on 2021-09-19
+version: '8.x-1.2'
+project: 'instawidget'
+datestamp: 1632041603
